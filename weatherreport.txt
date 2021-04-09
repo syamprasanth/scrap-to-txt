@@ -1,0 +1,1 @@
+------------salem-------------Temperature: 309.83Humidity: 17Pressure: 1005Weather Report: broken clouds
